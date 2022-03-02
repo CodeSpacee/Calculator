@@ -1,3 +1,3 @@
 # Web-Development
-Projetos usando tecnologias WEB 
-Em HTML, CSS & JavaScript
+Calculadora usando HTML, CSS & JS
+Calculator developed with HTML, CSS & JS
